@@ -1,0 +1,12 @@
+{
+  "name": "mays",
+  "version": "1.0.0",
+  "description": "Connect Claude to Mays, operations software for restaurants and cafés: schedules and who is on, approvals, checklists, temperatures, sales and labor, timecards, tips, inventory, orders and the knowledge base, with changes previewed and confirmed first.",
+  "author": {
+    "name": "YYVZ LLC dba Mays.App",
+    "url": "https://mays.app"
+  },
+  "homepage": "https://mays.app/help/ai-automation/connect-mays-to-chatgpt-or-claude",
+  "license": "MIT",
+  "keywords": ["restaurant", "cafe", "scheduling", "timecards", "labor", "checklists", "inventory", "operations"]
+}

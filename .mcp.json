@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mays": {
+      "type": "http",
+      "url": "https://go.mays.app/mcp"
+    }
+  }
+}
