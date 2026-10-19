@@ -6,10 +6,13 @@
     "name": "YYVZ LLC dba Mays.App",
     "url": "https://mays.app"
   },
-  "homepage": "https://mays.app/help/ai-automation/connect-mays-to-chatgpt-or-claude",
+  "homepage": "https://mays.app",
+  "documentationUrl": "https://mays.app/help/ai-automation/connect-mays-to-chatgpt-or-claude",
   "repository": "https://github.com/mays-app/mays-claude-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://www.mays.app/privacy",
+  "supportUrl": "https://www.mays.app/contact?topic=support",
+  "termsOfServiceUrl": "https://www.mays.app/terms",
   "keywords": [
     "restaurant",
     "cafe",
