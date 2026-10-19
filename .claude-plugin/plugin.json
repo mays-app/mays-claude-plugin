@@ -7,6 +7,17 @@
     "url": "https://mays.app"
   },
   "homepage": "https://mays.app/help/ai-automation/connect-mays-to-chatgpt-or-claude",
+  "repository": "https://github.com/mays-app/mays-claude-plugin",
   "license": "MIT",
-  "keywords": ["restaurant", "cafe", "scheduling", "timecards", "labor", "checklists", "inventory", "operations"]
+  "privacyPolicyUrl": "https://www.mays.app/privacy",
+  "keywords": [
+    "restaurant",
+    "cafe",
+    "scheduling",
+    "timecards",
+    "labor",
+    "checklists",
+    "inventory",
+    "operations"
+  ]
 }
